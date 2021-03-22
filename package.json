@@ -1,5 +1,5 @@
 {
-  "name": "@tannersatch/eslint-config-tannersatch",
+  "name": "eslint-config-tannersatch",
   "version": "1.0.2",
   "description": "My preferred eslint configs for react native.",
   "main": "index.js",
