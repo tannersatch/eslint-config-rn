@@ -9,6 +9,6 @@ To see his original project without my tweaks, check out [eslint-config-wesbos](
 
 ## Installation
 
-`npx install-peerdeps --dev @tannersatch/eslint-config-rn`
+`npx install-peerdeps --dev @tannersatch/eslint-config-tannersatch`
 
 For more installation information and tips, check out [eslint-config-wesbos](https://github.com/wesbos/eslint-config-wesbos)

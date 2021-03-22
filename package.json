@@ -1,5 +1,5 @@
 {
-  "name": "@tannersatch/eslint-config-rn",
+  "name": "@tannersatch/eslint-config-tannersatch",
   "version": "1.0.2",
   "description": "My preferred eslint configs for react native.",
   "main": "index.js",
@@ -38,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tannersatch/eslint-config-rn.git"
+    "url": "git+https://github.com/tannersatch/eslint-config-tannersatch.git"
   },
   "keywords": [
     "javascript",
@@ -50,7 +50,7 @@
   "author": "Tanner Satchwell",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tannersatch/eslint-config-rn/issues"
+    "url": "https://github.com/tannersatch/eslint-config-tannersatch/issues"
   },
-  "homepage": "https://github.com/tannersatch/eslint-config-rn#readme"
+  "homepage": "https://github.com/tannersatch/eslint-config-tannersatch#readme"
 }
