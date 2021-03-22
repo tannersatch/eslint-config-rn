@@ -1,0 +1,26 @@
+{
+  "name": "@tannersatch/eslint-config-rn",
+  "version": "1.0.0",
+  "description": "My preferred eslint configs for react native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tannersatch/eslint-config-rn.git"
+  },
+  "keywords": [
+    "javascript",
+    "eslint",
+    "lint",
+    "config",
+    "prettier"
+  ],
+  "author": "Tanner Satchwell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tannersatch/eslint-config-rn/issues"
+  },
+  "homepage": "https://github.com/tannersatch/eslint-config-rn#readme"
+}
