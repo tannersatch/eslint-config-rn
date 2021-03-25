@@ -12,7 +12,7 @@ To see his original project without my tweaks, check out [eslint-config-wesbos](
 1. Run the following at the root level in your project.
 
 ```
-npx install-peerdeps --dev @tannersatch/eslint-config-tannersatch
+npx install-peerdeps --dev eslint-config-tannersatch
 ```
 
 2. Add the following to the `package.json` file for your project.
