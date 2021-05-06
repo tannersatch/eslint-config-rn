@@ -26,7 +26,7 @@ Extend your eslint config in your `package.json` file
     "extends": [
       "tannersatch"
     ]
- },
+  },
 ```
 
 For more installation information and tips, check out [eslint-config-wesbos](https://github.com/wesbos/eslint-config-wesbos)
