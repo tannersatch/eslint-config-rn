@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-tannersatch",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "My preferred eslint configs for react native.",
   "main": "index.js",
   "scripts": {

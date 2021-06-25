@@ -17,7 +17,12 @@ module.exports = {
   },
   rules: {
     "react/prop-types": 0,
-    "camelcase": 2,
+    "camelcase": [
+      2,
+      {
+        "ignoreImports": true
+      }
+    ],
     'no-debugger': 0,
     'no-alert': 0,
     'no-await-in-loop': 0,
