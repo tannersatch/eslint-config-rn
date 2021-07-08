@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['airbnb', 'prettier', 'prettier/react'],
+  extends: ['airbnb', 'prettier', 'prettier/react', 'plugin:import/typescript'],
   parser: 'babel-eslint',
   parserOptions: {
     ecmaVersion: 2020,
@@ -40,6 +40,7 @@ module.exports = {
         argsIgnorePattern: 'res|next|^err',
       },
     ],
+    'no-use-before-define': ['error', { 'functions': false, 'classes': false, 'variables': false }],
     'prefer-const': [
       'error',
       {
@@ -80,7 +81,7 @@ module.exports = {
     'react/jsx-filename-extension': [
       1,
       {
-        extensions: ['.js', '.jsx'],
+        extensions: ['.js', '.jsx', '.ts', '.tsx'],
       },
     ],
     radix: 0,
